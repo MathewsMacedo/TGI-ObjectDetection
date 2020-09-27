@@ -16,6 +16,7 @@ Clone this repository
 ## ObjectDetection_Yolo_h5
 1. Download yolo.h5 (https://github.com/OlafenwaMoses/ImageAI/releases/tag/1.0/)
 2. Move to folder
+3. Follow the run steps
 
 ## ObjectDetection_Yolo_v3
 1. Download YOLOv3-320 WEIGHTS (https://pjreddie.com/darknet/yolo/)
