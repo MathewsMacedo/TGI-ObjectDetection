@@ -8,6 +8,22 @@
 5. pip3 install numpy==1.16.1
 6. pip3 install imageai --upgrade
 
+## Downloads
+Clone this repository
+
+## ObjectDetection_ssd_v3_coco
+1. Follow the run steps
+## ObjectDetection_Yolo_h5
+1. Download yolo.h5 (https://github.com/OlafenwaMoses/ImageAI/releases/tag/1.0/)
+2. Move to folder
+
+## ObjectDetection_Yolo_v3
+1. Download YOLOv3-320 WEIGHTS (https://pjreddie.com/darknet/yolo/)
+2. After download, rename the file to "yolov3.weights"
+3. Move the file to "cfg"
+4. Follow the run steps
+
+
 ## Run Macbook
 1. Choose one and open the folder
 2. Open in terminal the folder and execute script:
